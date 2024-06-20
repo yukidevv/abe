@@ -10,7 +10,7 @@ $ make fetch_abe
 
 - ローカルで起動
 ```
-$ node app.js
+$ make up
 ```
 
 - ベンチマークを実施

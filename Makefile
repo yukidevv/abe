@@ -8,3 +8,6 @@ fetch_abe:
 
 bench:
 	ab -c 10 -n 1000 http://localhost:3000/
+
+up:
+	node app.js
