@@ -10,7 +10,7 @@ $ make fetch_abe
 
 - ローカルで起動
 ```
-$ go run main.go
+$ node app.js
 ```
 
 - ベンチマークを実施
